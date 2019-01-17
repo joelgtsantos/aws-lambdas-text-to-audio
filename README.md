@@ -1,2 +1,2 @@
 # aws-lambdas-text-to-audio
-Code source to convert text to audio using AWS componentes Lambdas, S3, DynamoDB.
+Source code to convert text to audio using AWS componentes Lambdas with python, S3, DynamoDB.
